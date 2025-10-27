@@ -1,0 +1,8 @@
+qiskit
+numpy
+matplotlib
+jupyterlab
+pandas
+qutip
+pennylane
+cirq
